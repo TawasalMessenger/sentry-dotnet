@@ -11,6 +11,12 @@
 
 - Create CachingTransport directories in constructor to avoid DirectoryNotFoundException ([#1432](https://github.com/getsentry/sentry-dotnet/pull/1432))
 
+## 3.13.0.99
+
+### Features
+
+- .netstandard 2.0 force use
+
 ## 3.13.0
 
 ### Features
